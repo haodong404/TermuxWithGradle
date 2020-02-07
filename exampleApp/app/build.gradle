@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
+    
+    aaptOptions {  
+    cruncherEnabled = false  
+}  
+    defaultConfig {
+        applicationId "com.mycompany.myapp2"
+        minSdkVersion 21
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+    }
+    
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+}
+
+dependencies {
+    compile 'androidx.appcompat:appcompat:1.1.0'
+	compile 'com.google.android.material:material:1.2.0-alpha04'
+}

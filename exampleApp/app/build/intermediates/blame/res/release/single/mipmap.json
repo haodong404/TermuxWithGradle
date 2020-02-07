@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/mipmap/ic_launcher.png",
+        "source": "/sdcard/AppProjects/MyApp2/app/src/main/res/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/mipmap/ic_launcher_round.png",
+        "source": "/sdcard/AppProjects/MyApp2/app/src/main/res/mipmap/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/tooltip_frame_light.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/avd_hide_password.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/avd_hide_password.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/mtrl_dialog_background.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/e043d07e8feabf62c90b1aeddc6304fb/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/test_custom_background.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/test_custom_background.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/mtrl_popupmenu_background.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/e043d07e8feabf62c90b1aeddc6304fb/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/design_ic_visibility_off.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/ic_menu_arrow_down_black_24dp.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/ic_menu_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/e043d07e8feabf62c90b1aeddc6304fb/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/ic_clear_black_24dp.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/ic_calendar_black_24dp.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/ic_calendar_black_24dp.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/ic_edit_black_24dp.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/btn_radio_off_mtrl.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/ic_keyboard_arrow_right_black_24dp.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/mtrl_ic_arrow_drop_up.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/mtrl_ic_arrow_drop_up.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/design_password_eye.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/ic_keyboard_arrow_left_black_24dp.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ae8ac160c37cc8909f0cf54984653e5d/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/mtrl_dropdown_arrow.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/mtrl_dropdown_arrow.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/avd_show_password.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/avd_show_password.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/mtrl_ic_cancel.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/mtrl_ic_cancel.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/ic_mtrl_checked_circle.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/ic_mtrl_checked_circle.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/mtrl_ic_error.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/mtrl_ic_error.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/mtrl_ic_arrow_drop_down.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/mtrl_ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/e043d07e8feabf62c90b1aeddc6304fb/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/ic_menu_arrow_up_black_24dp.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/ic_menu_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/btn_radio_on_mtrl.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/mtrl_popupmenu_background_dark.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/mtrl_popupmenu_background_dark.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/tooltip_frame_dark.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/design_ic_visibility.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material_anim.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material_anim.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/bd1e55d109b6059b7df3e6499e82d1a5/res/drawable/abc_btn_default_mtrl_shape.xml"
+    }
+]

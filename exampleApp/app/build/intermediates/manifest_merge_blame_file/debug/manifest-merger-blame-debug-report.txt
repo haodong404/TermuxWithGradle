@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mycompany.myapp2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:6:5-28:19
+12        android:allowBackup="true"
+12-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] /root/.gradle/caches/transforms-2/files-2.1/983dcbce03944e107bfb652282d4cd91/core-1.1.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:8:9-43
+16        android:label="@string/app_name"
+16-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:10:9-41
+17        android:resizeableActivity="false"
+17-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:12:9-43
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:9:9-54
+19        android:theme="@style/AppTheme" >
+19-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:11:9-40
+20        <activity
+20-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:14:9-22:20
+21            android:name="com.mycompany.myapp2.MainActivity"
+21-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:15:13-41
+22            android:label="@string/app_name" >
+22-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:16:13-45
+23            <intent-filter>
+23-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:17:13-21:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:18:5-56
+24-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:18:13-54
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:20:17-76
+26-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:20:27-74
+27            </intent-filter>
+28        </activity>
+29
+30        <meta-data
+30-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:24:7-26:32
+31            android:name="android.max_aspect"
+31-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:25:11-44
+32            android:value="4.0" />
+32-->/sdcard/AppProjects/MyApp2/app/src/main/AndroidManifest.xml:26:11-30
+33    </application>
+34
+35</manifest>

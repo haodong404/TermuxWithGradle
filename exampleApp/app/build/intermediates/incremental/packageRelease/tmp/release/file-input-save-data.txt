@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Feb 07 15:43:41 CST 2020
+0.baseType=DIRECTORY
+0.base=/sdcard/AppProjects/MyApp2/app/build/intermediates/transforms/dexMerger/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

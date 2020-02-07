@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/xml/standalone_badge_offset.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/sdcard/AppProjects/MyApp2/app/build/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/ec71f4e0a410880978b555ca84f769c0/res/xml/standalone_badge.xml"
+    }
+]

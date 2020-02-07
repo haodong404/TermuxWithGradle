@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/sdcard/AppProjects/MyApp2/app/src/main/assets"/><source path="/sdcard/AppProjects/MyApp2/app/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/sdcard/AppProjects/MyApp2/app/src/release/assets"/></dataSet></merger>
