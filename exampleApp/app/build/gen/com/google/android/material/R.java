@@ -6531,6 +6531,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int beginning=0x7f090077;
         public static final int blocking=0x7f09006a;
         public static final int bottom=0x7f090042;
+        public static final int button=0x7f0900b7;
         public static final int buttonPanel=0x7f09008d;
         public static final int cancel_button=0x7f0900d1;
         public static final int center=0x7f090034;
@@ -6724,7 +6725,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int title=0x7f09001f;
         public static final int titleDividerNoCustom=0x7f09009a;
         public static final int title_template=0x7f090098;
-        public static final int toolbar=0x7f0900b7;
         public static final int top=0x7f090049;
         public static final int topPanel=0x7f090097;
         public static final int touch_outside=0x7f0900bc;

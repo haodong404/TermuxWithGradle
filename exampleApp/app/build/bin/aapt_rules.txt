@@ -70,7 +70,6 @@
 -keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
 
 # view res/layout/abc_screen_toolbar.xml #generated:36
-# view res/layout/activity_main.xml #generated:14
 # view v26/res/layout-v26/abc_screen_toolbar.xml #generated:37
 -keep class androidx.appcompat.widget.Toolbar { <init>(...); }
 
@@ -89,15 +88,13 @@
 # view res/layout/mtrl_calendar_months.xml #generated:18
 -keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
 
-# view res/layout/activity_main.xml #generated:9
--keep class com.google.android.material.appbar.AppBarLayout { <init>(...); }
-
 # view res/layout/test_toolbar.xml #generated:16
 # view res/layout/test_toolbar_custom_background.xml #generated:16
 # view res/layout/test_toolbar_elevation.xml #generated:16
 # view res/layout/test_toolbar_surface.xml #generated:16
 -keep class com.google.android.material.appbar.MaterialToolbar { <init>(...); }
 
+# view res/layout/activity_main.xml #generated:9
 # view res/layout/mtrl_calendar_month_navigation.xml #generated:32
 # view res/layout/mtrl_calendar_month_navigation.xml #generated:46
 # view res/layout/mtrl_calendar_month_navigation.xml #generated:56

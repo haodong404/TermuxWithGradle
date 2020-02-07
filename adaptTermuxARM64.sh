@@ -1,6 +1,12 @@
 #!/bin/bash
 cd
 
+if ! [ `command -v wget` ]
+then
+	echo 'Please install wget first !!'
+	exit
+fi
+
 # install request libs
 mkdir "libs"
 
@@ -18,4 +24,5 @@ do
 	fi
 done
 
+cd..
 rmdir libs
