@@ -24,5 +24,5 @@ do
 	fi
 done
 
-cd..
+cd ..
 rmdir libs
