@@ -77,7 +77,7 @@ pacman -S glibc
 ```
 ## 注意事项
 - `classpath 'com.android.tools.build:gradle:3.0.0'`中的版本号为Android Gradle插件的版本，而非Gradle的版本，[官方](https://developer.android.com/studio/releases/gradle-plugin?hl=zh-cn)有一个两者的对应关系。两者版本一定要对应上，否则会报错
-- 目前`com.android.tools.build:gradle`的版本最好低于`3.1.0`，因为在`3.1.0`之上会强制启用aapt2打包资源，而目前仅研究出了用aapt打包资源
+- 目前`com.android.tools.build:gradle`的版本最好低于`3.1.0`，因为在`3.1.0`之上启用aapt2打包资源之后会出问题
 - 每一个版本的build-tools中的aapt都需替换为对应cpu架构的版本
 
 ## 部分Linux发行版安装gradle的区别
