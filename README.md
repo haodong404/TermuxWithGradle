@@ -70,7 +70,7 @@ sdkmanager "platform-tools" "build-tools;29.0.3" "platforms;android-29"
 ```
 wget https://raw.githubusercontent.com/VcotyQin/TermuxWithGradle/master/adaptTermuxARM64.sh && chmod 777 adaptTermuxARM64.sh && ./adaptTermuxARM64.sh
 ```
-* 自行将本仓库中对应架构的aapt,aapt2覆盖到android_sdk/build-tools/***version***/下（注意对aapt,aapt2授予执行权限!!!很重要!!!!）
+* 自行将本仓库中对应架构的aapt,aapt2覆盖到android_sdk/build-tools/***version***/下（注意对aapt,aapt2授予执行权限!!!很重要!!!!）(当然，如果你cpu的架构与原来的文件相符就不用替换)
 * 安装glibc
 ```
 pacman -S glibc
@@ -87,6 +87,8 @@ pacman -S glibc
 - 不执行`pacman -S glibc`，需自行编译安装glibc：方法自行Google或百度
 ### centos
 - 不执行`pacman -S glibc`，需自行编译安装glibc：方法自行Google或百度
+
+**手动编译安装glibc花费的时间大约要用数小时**
 
 ## 测试
 仓库中有个exampleApp可供测试，我已配置完整
