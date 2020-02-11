@@ -88,7 +88,7 @@ pacman -S glibc
 ### centos
 - 不执行`pacman -S glibc`，需自行编译安装glibc：方法自行Google或百度
 
-**手动编译安装glibc花费的时间大约要用数小时**
+**手动编译安装glibc大约要用3小时**
 
 ## 测试
 仓库中有个exampleApp可供测试，我已配置完整
